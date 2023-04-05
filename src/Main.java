@@ -13,6 +13,6 @@ public class Main {
             // for you, but you can always add more by pressing ⌘F8.
             System.out.println("i = " + i);
         }
-        System.out.println("Пусто");
+        System.out.println("Здорова");
     }
 }
